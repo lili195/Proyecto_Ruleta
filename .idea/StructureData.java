@@ -1,5 +1,5 @@
 public class StructureData {
-    public static final void main (String args[]) {
+    public static final String main (String args[]) {
         System.out.println("Hola");
     }
 }
